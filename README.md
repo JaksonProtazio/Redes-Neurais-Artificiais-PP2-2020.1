@@ -1,4 +1,12 @@
-<b><h1>Projeto Prático 2 </h1><b/> <br/>
-Jakson Protázio Vilaca <br/>
-Lucas Sarmento De Araújo <br/>
-Nadine da Cunha Brito
+### Projeto Pratico 2 - Redes Neurais Artificiais - 2020.1
+
+Este repositório tem por objetivo armazenas os códigos fontes do segundo projeto prático.
+Segue a equipe reponsável por este: Jakson Protázio Vilaca, Nadine da Cunha Brito e Lucas Sarmento De Araújo.
+
+
+# Arquivos
+
+- A pasta "data" armazena os datasets utilizados para realizar a atividade.
+- O arquivo "problema_linearmente_separavel.ipynb" contem a resolução de parte 1 do PP2.
+- O arquivo "experimentacao.ipynb" é dedicado á resolução da parte 2 do PP2.
+- O arquivo "validacao_holdout.ipynb" possui a solução da parte 3 do PP2.
