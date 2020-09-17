@@ -1,6 +1,6 @@
 ### Projeto Pratico 2 - Redes Neurais Artificiais - 2020.1
 
-Este repositório tem por objetivo armazenas os códigos fontes do segundo projeto prático. Segue a equipe reponsável por este trabalho: Jakson Protázio Vilaca, Nadine da Cunha Brito e Lucas Sarmento De Araújo.
+Este repositório tem por objetivo armazenar os códigos fontes do segundo projeto prático. Segue a equipe reponsável por este trabalho: Jakson Protázio Vilaca, Nadine da Cunha Brito e Lucas Sarmento De Araújo.
 
 
 # Arquivos
